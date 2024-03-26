@@ -9,6 +9,6 @@ Processing Steps
 ### Normalization: Converts all text to lower case for uniformity.
 ### Tokenization: Splits the text into individual words.
 ### Lemmatization or Stemming: Reduces each word to its root form.
-###Stop Words Removal: Eliminates common stop words from the text.
+### Stop Words Removal: Eliminates common stop words from the text.
 ## Output
 The script outputs the unique words found in the processed text.
